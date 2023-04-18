@@ -1,0 +1,71 @@
+body {
+    background-image: url('/Git ir GitHub/atsiskaitymas/resources/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+background-attachment: inherit;
+  background-position: relative;
+
+;
+
+  
+  }
+  .flex {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid white;
+    margin-bottom: 50px;
+      
+  }
+  .svg {
+    height: 50px;
+    width: 50px;
+    margin-top: 200px;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  #main {
+    display: flex;
+align-items: center;
+justify-content: center;
+border-bottom: 1px solid white;
+margin-bottom: 40px;
+  }
+
+  .div h1 {
+    color: white;
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    align-self: center;
+    padding-left: 30%;
+
+  }
+.div p{
+    color: white;
+}
+.div p > a {
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px dashed white;
+}
+.div p > a:hover {
+    background-color: grey;
+    color: black;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    
+}
+.footer p {
+    color: white;
+    padding: 10px 30px;
+    border: 1px solid whitesmoke;
+}
+.footer p > a {
+    text-decoration: none;
+    color: antiquewhite;
+}
