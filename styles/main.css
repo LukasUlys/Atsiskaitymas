@@ -44,11 +44,11 @@ margin-bottom: 40px;
 
   }
 .div p{
-    color: white;
+    color: rgb(202, 183, 183);
 }
 .div p > a {
     text-decoration: none;
-    color: white;
+    color: rgb(187, 165, 165);
     border-bottom: 1px dashed white;
 }
 .div p > a:hover {
@@ -67,5 +67,10 @@ margin-bottom: 40px;
 }
 .footer p > a {
     text-decoration: none;
-    color: antiquewhite;
+    color: grey;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.footer p:hover {
+background-color: rgb(209, 190, 190);
 }
